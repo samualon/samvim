@@ -68,9 +68,9 @@ return packer.startup(function(use)
   use "rafamadriz/friendly-snippets" -- a bunch of snippets to use
 
   -- LSP
-  use { "neovim/nvim-lspconfig", commit = "f11fdff7e8b5b415e5ef1837bdcdd37ea6764dda" } -- enable LSP
   use { "williamboman/mason.nvim", commit = "c2002d7a6b5a72ba02388548cfaf420b864fbc12"} -- simple to use language server installer
   use { "williamboman/mason-lspconfig.nvim", commit = "0051870dd728f4988110a1b2d47f4a4510213e31" }
+  use { "neovim/nvim-lspconfig", commit = "f11fdff7e8b5b415e5ef1837bdcdd37ea6764dda" } -- enable LSP
 
   -- Automatically set up your configuration after cloning packer.nvim
   -- Put this at the end after all plugins
