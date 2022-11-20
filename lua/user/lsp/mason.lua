@@ -19,7 +19,7 @@ local settings = {
 }
 
 require("mason").setup(settings)
-require("mason-lspconfig").setup({
+require("mason-lsp-config").setup({
 	ensure_installed = servers,
 	automatic_installation = true,
 })
