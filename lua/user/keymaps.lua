@@ -69,3 +69,9 @@ keymap("t", "<C-h>", "<C-\\><C-N><C-w>h", term_opts)
 keymap("t", "<C-j>", "<C-\\><C-N><C-w>j", term_opts)
 keymap("t", "<C-k>", "<C-\\><C-N><C-w>k", term_opts)
 keymap("t", "<C-l>", "<C-\\><C-N><C-w>l", term_opts)
+
+-- Telescope --
+keymap('n', '<leader>ff', "<cmd>Telescope find_files theme=dropdown<cr>", opts)
+keymap('n', '<leader>fg', "<cmd>Telescope git_status theme=dropdown<cr>", opts)
+keymap('n', '<leader>ff', "<cmd>Telescope buffers theme=dropdown<cr>", opts)
+keymap('n', '<leader>ff', "<cmd>Telescope help_tags theme=dropdown<cr>", opts)
