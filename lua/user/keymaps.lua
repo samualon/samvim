@@ -73,5 +73,5 @@ keymap("t", "<C-l>", "<C-\\><C-N><C-w>l", term_opts)
 -- Telescope --
 keymap('n', '<leader>ff', "<cmd>Telescope find_files theme=dropdown<cr>", opts)
 keymap('n', '<leader>fg', "<cmd>Telescope git_status theme=dropdown<cr>", opts)
-keymap('n', '<leader>ff', "<cmd>Telescope buffers theme=dropdown<cr>", opts)
-keymap('n', '<leader>ff', "<cmd>Telescope help_tags theme=dropdown<cr>", opts)
+keymap('n', '<leader>fb', "<cmd>Telescope buffers theme=dropdown<cr>", opts)
+keymap('n', '<leader>fh', "<cmd>Telescope help_tags theme=dropdown<cr>", opts)
