@@ -9,3 +9,6 @@ This is my personal custom Neovim setup. This is the result of a careful combina
 - gzip
 - wget
 - node.js and nvm
+- A nerd font
+### Windows only
+- x64 Native Tools Command Prompt (comes with Visual Studio 20xx)
