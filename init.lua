@@ -16,3 +16,4 @@ require('telescope').load_extension('media_files')
 require "user.telescope"
 require 'nvim-treesitter.install'.compilers = { "clang" }
 require "user.treesitter"
+require "user.dashboard"
