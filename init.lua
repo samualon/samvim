@@ -14,5 +14,5 @@ require'lspconfig'.r_language_server.setup{}
 require'lspconfig'.sumneko_lua.setup{}
 require('telescope').load_extension('media_files')
 require "user.telescope"
-require "user.treesitter"
 require 'nvim-treesitter.install'.compilers = { "clang" }
+require "user.treesitter"
