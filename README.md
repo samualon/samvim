@@ -13,6 +13,12 @@ This is my personal custom Neovim setup. This is the result of a careful combina
 - A custom stylish startup screen
 - Automatic brackets (using autopairs)
 - See additions, changes, deletions, ... in git directories (using Gitsigns)
+## Installation
+1. Clone this repository to your ´.../appdata/local/´ folder and name the folder **nvim**.
+2. Install a terminal emulator that supports nerd fonts.
+3. Install all required dependencies[^1] (see below).
+4. Open the plugins.lua script located at ´.../appdata/local/lua/user/´ in Neovim and press ":w". Neovim will then install all necessary plugins.
+[^1]: Depending on the programming languages you use, you could have additional dependencies.
 ## Dependencies 
 - Neovim (duhhh)
 - Clang
