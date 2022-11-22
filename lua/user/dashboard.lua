@@ -29,7 +29,7 @@ dashboard.custom_center = {
 
       {icon = 'ﱮ  ',
       desc = 'File explorer',
-      action ='Lexplore'},
+      action ='NvimTreeOpen'},
       
       {icon = '  ',
       desc = 'Find file',
