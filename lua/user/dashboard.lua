@@ -23,19 +23,19 @@ dashboard.custom_footer = { "  ", "  ", "© 2022 Samuel Coryn", }
 
 
 dashboard.custom_center = {
-      {icon = '  ',
-      desc = 'Empty buffer',
+      {icon = '  ',
+      desc = 'New file',
       action ='enew'},
 
-      {icon = '  ',
+      {icon = 'ﱮ  ',
       desc = 'File explorer',
       action ='Lexplore'},
       
-      {icon = '  ',
+      {icon = '  ',
       desc = 'Find file',
       action ='Telescope find_files theme=dropdown'},
 
-      {icon = " ",
-      desc = "Open Mason configurator",
+      {icon = "漣 ",
+      desc = "Mason configurator",
       action = "Mason"}
 }
