@@ -33,3 +33,5 @@ This is my personal custom Neovim setup. This is the result of a careful combina
 ### Windows only
 - x64 Native Tools Command Prompt (comes with Visual Studio 20xx)
 - Hack Nerd font mono for Windows (located in the ´samvim/resources/´ directory)
+
+(Based on LunarVim)
