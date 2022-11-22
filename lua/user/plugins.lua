@@ -98,6 +98,8 @@ return packer.startup(function(use)
   -- NvimTree
   use "nvim-tree/nvim-tree.lua"
 
+  -- Bufferline
+  use "akinsho/bufferline.nvim"
 
 
   -- Automatically set up your configuration after cloning packer.nvim
