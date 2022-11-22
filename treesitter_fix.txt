@@ -1,5 +1,0 @@
-https://stackoverflow.com/questions/66692772/nvim-treesitter-installation-on-windowshttps://stackoverflow.com/questions/66692772/nvim-treesitter-installation-on-windows
-Installing VS 2017/2019/2022 for the x64 Native Tools Command Prompt for VS 201x tool.
-Use this tool to install and compile Treesitter parsers.
-":checkhealth nvim-treesitter" to make sure everything works.
-Close out of Native Tools Command Prompt and check in CMD.
