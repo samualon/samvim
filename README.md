@@ -13,6 +13,9 @@ This is my personal custom Neovim setup. This is the result of a careful combina
 - A custom stylish startup screen
 - Automatic brackets (using autopairs)
 - See additions, changes, deletions, ... in git directories (using Gitsigns)
+- Easily browse directories (using NvimTree) 
+- Graphically navigate between buffers (using Bufferlines)
+- Run commands in a floating terminal (using Toggleterm)
 ## Installation
 1. Clone this repository to your ´.../appdata/local/´ folder and name the folder **nvim**.
 2. Install a terminal emulator that supports nerd fonts.
