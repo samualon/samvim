@@ -17,3 +17,4 @@ require "user.telescope"
 require 'nvim-treesitter.install'.compilers = { "clang" }
 require "user.treesitter"
 require "user.dashboard"
+require "user.autopairs"
