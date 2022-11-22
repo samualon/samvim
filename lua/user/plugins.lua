@@ -95,6 +95,8 @@ return packer.startup(function(use)
   -- Gitsigns
   use "lewis6991/gitsigns.nvim"
 
+  -- NvimTree
+  use "nvim-tree/nvim-tree.lua"
 
 
 

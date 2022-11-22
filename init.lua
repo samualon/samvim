@@ -1,3 +1,4 @@
+LANG=en_US
 require "user.options"
 require "user.keymaps"
 require "user.plugins"
@@ -19,3 +20,4 @@ require "user.treesitter"
 require "user.dashboard"
 require "user.autopairs"
 require "user.gitsigns"
+require "user.nvim-tree"
