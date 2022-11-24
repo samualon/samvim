@@ -23,3 +23,11 @@ require "user.gitsigns"
 require "user.nvim-tree"
 require "user.bufferline"
 require "user.toggleterm"
+
+
+
+
+--        __
+--      <(o )___
+--       ( ._> /
+--       `---'   S.C. 
